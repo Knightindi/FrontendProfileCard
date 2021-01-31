@@ -1,2 +1,2 @@
-# FrontendProfileCard
-First Frontend Mentor Project - Beginner
+# FrontendMentor
+First Frontend Mentor Projects - Beginner
