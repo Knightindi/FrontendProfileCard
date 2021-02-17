@@ -40,7 +40,7 @@
     }
 
 hr {
-  border-top: 3px;
+  border-top: 5px;
 position: relative;
 bottom:30px;
   color: hsl(0, 0%, 59%);
@@ -67,11 +67,16 @@ bottom:30px;
 
   .Table {
     text-align: center;
-    margin: auto;
+        padding-left: 20px;
+
+
   }
 
 
+
+
   .doublespace{
+
     letter-spacing: 1px;
 
   }
